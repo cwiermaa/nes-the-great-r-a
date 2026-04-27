@@ -1,0 +1,6 @@
+.include "songs.asm"
+.include "volume_envelopes.asm"
+.include "noises.asm"
+.include "sound_effects.asm"
+.include "notes_table_ntsc.asm"
+.include "unique_routines.asm"

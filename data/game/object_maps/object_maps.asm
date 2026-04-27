@@ -1,0 +1,1 @@
+.include "level1_object_map.asm"
